@@ -6,4 +6,4 @@ This is a simple implementation of a terminal conways game of life written in ru
 
 1. Clone the project
 2. `cargo run`
-3. profit
+3. profit ..?
